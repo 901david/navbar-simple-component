@@ -6,7 +6,6 @@ const LoaderCheck = props => {
   return (
     <div className="loader-main">
       <div className="loader-circle">
-        <div className="loader-bar" />
         <div className="loader-bar-background" />
         <span className="check-1" />
         <span className="check-2" />
