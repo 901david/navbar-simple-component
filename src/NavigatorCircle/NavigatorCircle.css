@@ -1,4 +1,4 @@
-.navigation__checkbox {
+/* .navigation__checkbox {
   display: none;
 }
 .navigation__button {
@@ -127,4 +127,4 @@
 .navigation__checkbox:checked + .navigation__button .navigation__icon::after {
   transform: rotate(-135deg);
   top: 0;
-}
+} */
